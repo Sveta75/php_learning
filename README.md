@@ -6,5 +6,6 @@
 </head>
 <body>
     <p>тестирование Git<p>
+    <p>тестирование Git2<p>
 </body>
 </html>
